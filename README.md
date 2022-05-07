@@ -1,2 +1,2 @@
 # FigureBed
-Figurebed for online blogs 
+Figurebed for personal blogs 
